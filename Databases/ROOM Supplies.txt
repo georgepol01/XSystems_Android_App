@@ -1,0 +1,41 @@
+          SUPPLIES
+
+Supplies ID:1
+Supplier ID:1
+Product ID:4
+
+Supplies ID:2
+Supplier ID:1
+Product ID:6
+
+Supplies ID:3
+Supplier ID:2
+Product ID:4
+
+Supplies ID:4
+Supplier ID:2
+Product ID:3
+
+Supplies ID:5
+Supplier ID:3
+Product ID:2
+
+Supplies ID:6
+Supplier ID:4
+Product ID:4
+
+Supplies ID:7
+Supplier ID:5
+Product ID:5
+
+Supplies ID:8
+Supplier ID:5
+Product ID:7
+
+Supplies ID:9
+Supplier ID:5
+Product ID:1
+
+Supplies ID:10
+Supplier ID:4
+Product ID:6

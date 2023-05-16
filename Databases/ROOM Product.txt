@@ -1,0 +1,38 @@
+           PRODUCT 
+
+Product ID:1
+Product Name:ssd
+Product Stock:1
+Product Price:300
+
+Product ID:2
+Product Name:motherboard
+Product Stock:1
+Product Price:500
+
+Product ID:3
+Product Name:psu
+Product Stock:5
+Product Price:100
+
+Product ID:4
+Product Name:keyboard
+Product Stock:3
+Product Price:70
+
+Product ID:5
+Product Name:cpu
+Product Stock:17
+Product Price:400
+
+Product ID:6
+Product Name:mouse
+Product Stock:25
+Product Price:50
+
+Product ID:7
+Product Name:graphics card
+Product Stock:15
+Product Price:900
+
+

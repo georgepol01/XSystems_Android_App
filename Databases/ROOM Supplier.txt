@@ -1,0 +1,31 @@
+           SUPPLIER
+
+Supplier ID:1
+Supplier Name:Logitech
+Supplier Address:Europe
+Supplier Phone:5658525412
+Supplier Email:logitech@yahoo.com
+
+Supplier ID:2
+Supplier Name:Corsair
+Supplier Address:Europe
+Supplier Phone:5623125412
+Supplier Email:corsair@yahoo.com
+
+Supplier ID:3
+Supplier Name:Gigabyte
+Supplier Address:Europe
+Supplier Phone:5658523112
+Supplier Email:gigabyte@yahoo.com
+
+Supplier ID:4
+Supplier Name:Razer
+Supplier Address:Europe
+Supplier Phone:4523525412
+Supplier Email:razer@yahoo.com
+
+Supplier ID:5
+Supplier Name:Intel
+Supplier Address:Europe
+Supplier Phone:3218525412
+Supplier Email:intel@yahoo.com

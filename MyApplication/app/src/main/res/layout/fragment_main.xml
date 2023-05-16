@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fitsSystemWindows="true"
+    tools:context=".mainFragment">
+
+    <Button
+        android:id="@+id/mainsearchbtn"
+        android:layout_width="190dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="102dp"
+        android:layout_marginEnd="111dp"
+        android:text="SEARCH"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/maininsertbtn"
+        android:layout_width="190dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="60dp"
+        android:text="INSERT"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mainsearchbtn" />
+
+    <Button
+        android:id="@+id/maindeletebtn"
+        android:layout_width="190dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="60dp"
+        android:text="DELETE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/maininsertbtn" />
+
+    <Button
+        android:id="@+id/mainupdatebtn"
+        android:layout_width="190dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="60dp"
+        android:text="UPDATE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/maindeletebtn" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

@@ -1,0 +1,44 @@
+<resources>
+    <string name="about_us">This eshop application demonstrates the implementation of a local database using Room API and a remote cloud database using FireBase Firestore.</string>
+    <string name="about_us2">App name:XSystems</string>
+    <string name="about_us3">Version:4.0.0</string>
+    <string name="about_us4">Made by:George Polizoidis</string>
+    <string name="app_name">XSystems</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="queries_array">
+        <item> query 1</item>
+        <item> query 2</item>
+        <item> query 3</item>
+        <item> query 4</item>
+        <item> query 5</item>
+        <item> query 6</item>
+        <item> query 7</item>
+        <item> query 8</item>
+        <item> query 9</item>
+        <item> query 10</item>
+        <item> query 11</item>
+    </string-array>
+    <string-array name="queries_description_array">
+        <item> 1.Show Supplies records.</item>
+        <item> 2.Show Supplier records.</item>
+        <item> 3.Show Product records.</item>
+        <item> 4.Show Sales records.</item>
+        <item> 5.Show Customer records.</item>
+        <item> 6.Show all Product records that have stock less than 10.</item>
+        <item> 7.Show Supplier name that supplies the most products.</item>
+        <item> 8.Show all Product records that are being supplied by more than one supplier.</item>
+        <item> 9.Show the sum of all price from Sales.</item>
+        <item> 10.Show the highest price from Sales.</item>
+        <item> 11.Show Customer name that made the most orders.</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

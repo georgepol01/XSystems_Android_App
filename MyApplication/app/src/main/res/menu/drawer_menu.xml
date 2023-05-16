@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Database">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/search"
+                    android:icon="@mipmap/outline_search_white_48"
+                    android:title="Search" />
+
+                <item
+                    android:id="@+id/insert"
+                    android:icon="@mipmap/outline_insert_drive_file_white_48"
+                    android:title="Insert" />
+
+                <item
+                    android:id="@+id/delete"
+                    android:icon="@mipmap/outline_delete_white_48"
+                    android:title="Delete" />
+
+                <item
+                    android:id="@+id/update"
+                    android:icon="@mipmap/outline_update_white_48"
+                    android:title="Update" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Profile">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@mipmap/outline_logout_white_48"
+                    android:title="Logout" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Information">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/about"
+                    android:icon="@mipmap/outline_info_white_48"
+                    android:title="About Us" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

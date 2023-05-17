@@ -1,6 +1,8 @@
 # XSystems_Android_App
 An Android app that manages the remote and local databases of an online eshop.
+
 Technologies Used: Java, Android Studio, Android SDK, Gradle, Room API, Firebase, Cloud Firestore, SQLite, NoSQL
+
 ![login_portrait](https://github.com/georgepol01/XSystems_Android_App/assets/115163100/e8ea2d36-4a2e-42d0-afe2-2b8e532c7dc7)
 ![login-landscape](https://github.com/georgepol01/XSystems_Android_App/assets/115163100/5efa984a-d281-458f-b393-5d6237ea47de)
 ![drawer_menu_portrait](https://github.com/georgepol01/XSystems_Android_App/assets/115163100/6fd0dc95-d298-4f05-9cee-5c6fd44d5ec3)
